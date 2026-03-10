@@ -8,3 +8,4 @@ textblob
 xgboost
 shap
 streamlit
+altair==4.2.2
